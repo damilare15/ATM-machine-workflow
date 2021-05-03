@@ -82,7 +82,7 @@ if(name in allowedUsers):
             print('What issues would you like to report:')
             print('1. machine ejecting my card')
             print('2. account debited but i did not get my money')
-            print('please report other issues to your neares bank')
+            print('please report other issues to your nearest bank')
 
             compliantOption = int(input('what issues would you like to report:'))
             
